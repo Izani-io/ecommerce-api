@@ -56,6 +56,9 @@ GET /api/orders/my
 GET /api/orders (Admin)
 PUT /api/orders/ (Admin)
 
-Author
+Available at the Live URL
 
+https://ecommerce-api-ndt3.onrender.com
+
+Author
 Built by Israel Izani
